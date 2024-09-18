@@ -1,7 +1,7 @@
 # ParcialEJS
 Autor
-Nombre: Silvana Gutierrez Chaparro
-Código: 202021594
+- Nombre: Silvana Gutierrez Chaparro
+- Código: 202021594
 
 # Nota Importante
 # Todos los cambios y desarrollos se encuentran en la rama master.
