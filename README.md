@@ -21,8 +21,8 @@ Configuración
 
 # Endpoints
 
-GET /: Página principal. Muestra el formulario para agregar nuevos lugares y la lista de lugares existentes.
-GET /towns/:departmentCode: Retorna la lista de municipios para un departamento específico.
-POST /add-place: Agrega un nuevo lugar turístico.
+- GET /: Página principal. Muestra el formulario para agregar nuevos lugares y la lista de lugares existentes.
+- GET /towns/:departmentCode: Retorna la lista de municipios para un departamento específico.
+- POST /add-place: Agrega un nuevo lugar turístico.
 
 
